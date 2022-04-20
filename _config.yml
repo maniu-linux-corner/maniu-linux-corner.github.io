@@ -2,6 +2,8 @@ theme: jekyll-theme-minimal
 title: "Maniu Linux Corner"
 description: " "
 show_downloads: false
+github_username:  linux-maniu
+
 github:
       is_user_page: true
       is_project_page: false
