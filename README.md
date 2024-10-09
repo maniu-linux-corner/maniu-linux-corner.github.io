@@ -1,1 +1,1 @@
-# pclinuxoscz
+# ---
