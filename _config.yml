@@ -1,8 +1,8 @@
 theme: jekyll-theme-minimal
 title: "Maniu Linux Corner"
-description: " "
+description: "Welcome to Maniu's Linux Corner"
 show_downloads: false
-github_username:  linux-maniu
+github_username:  maniu-linux-corner
 
 github:
       is_user_page: false
