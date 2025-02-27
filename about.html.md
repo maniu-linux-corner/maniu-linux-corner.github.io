@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Linux Stuff
+Welcome to Maniu's Linux Corner
