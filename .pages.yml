@@ -6,6 +6,12 @@ content:
     path: '_posts'
     view:
       fields: [ title, published, date ]
+      primary: title
+      sort: [ date, title ]
+      default:
+        search: ''
+        sort: title
+        order: desc
     fields:
       - name: published
         label: Published
